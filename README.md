@@ -1,6 +1,6 @@
 ### Overview
 
-I designed tables to hold data from these CSVs. I then imported the CSVs into a SQL database. I then answered the below questions about the data.
+I designed tables to hold data from these CSVs (data modeling), I then imported the CSVs into a SQL database (data engineering), and finally I answered the below questions about the data (data analysis).
 
 1. Data Modeling
 
